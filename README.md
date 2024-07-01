@@ -42,7 +42,7 @@ Install the necessary dependencies using requirements.txt.
 Run the provided script or notebook to train the XGBoost model.
 Use the trained model to make predictions on new data.
 # Results
-Include any key performance metrics, insights, or visualizations obtained from the model evaluation.
+ Key performance metrics, insights, or visualizations obtained from the model evaluation.
 
 # Conclusion
 Summarize the findings and discuss the significance of the model's predictions in the context of chronic kidney disease diagnosis.
